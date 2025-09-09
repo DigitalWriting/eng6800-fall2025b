@@ -1,6 +1,6 @@
 - [My CV](#my-cv)
 - [Academic Background](#academic-background)
-  - [University](#university)
+  - [Degrees](#degrees)
   - [Biography](#biography)
 - [Publications](#publications)
   - [Journal Articles](#journal-articles)
@@ -9,7 +9,10 @@
 
 # My CV
 # Academic Background
-## University
+## Degrees
+- Bachelor of Science in Computer Science, Columbia University, 2012–2016
+- Master of Arts in Digital Media, New York University, 2016–2018
+- PhD in Human-Computer Interaction, MIT, 2018–2022
 ## Biography
 Jane Doe is a creative technologist and writer based in New York City. With a background in computer science and digital media, she has worked on projects ranging from interactive art installations to educational software. Jane is passionate about using technology to tell stories and solve real-world problems. In her free time, she enjoys hiking, photography, and volunteering at local animal shelters.
 # Publications
